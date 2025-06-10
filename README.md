@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://muhammad-sulaiman.com/](https://muhammad-sulaiman.com/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Active accounts:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-sulaiman-b3723ba6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sulaiman-b3723ba6" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4108016/muhammad-sulaiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-sulaiman" height="30" width="40" /></a>
